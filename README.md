@@ -1,6 +1,10 @@
 # Arian Carvalho
 
-Sou Amazonense, tenho 23 anos e um tremendo fã de Senhor dos Anéis e ir para a Academia, atualmente gosto bastante da área de back-end, onde vi com C# e .NET, desejo seguir nessa área e trabalhar nela, além de me especializar em cibersecurity dentro de 5 anos.
+- Comecei a estudar e trabalhar com programação no ensino médio programando em arduino e automação residencial.
+
+- Trabalhei em grandes empresas, sempre com foco na qualidade do produto entregue ao cliente.
+
+- Hoje traduzo artigos em inglês no FreeCodeCamp para democratizar o conhecimento na comunidade tech.
 
 ## Conecte-se comigo : 
 [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/ArianVCarvalho)
