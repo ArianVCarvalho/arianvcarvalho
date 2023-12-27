@@ -12,11 +12,7 @@
 
 
 ## Habilidades : 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-
-![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)
 
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00FF00)
 
