@@ -12,20 +12,11 @@
 
 
 ## Habilidades : 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)
-
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00FF00)
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-
-![TailWind](https://img.shields.io/badge/TailWind-000?style=for-the-badge&logo=TailWindcss)
-
-![SQl](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=823085)
-
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![TailWind](https://img.shields.io/badge/TailWind-000?style=for-the-badge&logo=TailWindcss)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00FF00) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQl](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=823085) ![Docker](https://img.shields.io/badge/Docker-000.svg?style=for-the-badge&logo=Docker&logoColor=blue) 
+![Git](https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=F05032) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=76ad64)
 
 
 
