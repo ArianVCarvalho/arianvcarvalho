@@ -20,7 +20,7 @@ Principais competências:
 ## 🚀 Experiência Profissional  
 
 ### **Luby**  
-**.NET Developer** (Fevereiro 2024 - Presente | 1 ano 2 meses)  
+**.NET Developer** (Fevereiro 2024 - Outubro 2024 | 9 meses)  
 _Consultoria alocada na fintech Gigpay em rápido crescimento._  
 
 **Contribuições:**  
