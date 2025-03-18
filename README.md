@@ -1,62 +1,85 @@
+Aqui está o **README atualizado** com base nas informações do seu perfil do LinkedIn:
+
+---
+
 # Arian Carvalho
 
-**Desenvolvedor Backend .NET | C# | AWS**
+**Desenvolvedor Backend .NET | C# | AWS | Especialista em Microsserviços**  
+📍 Manaus, Amazonas, Brasil  
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![TailWind](https://img.shields.io/badge/TailWind-000?style=for-the-badge&logo=TailWindcss)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00FF00) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=823085) ![Docker](https://img.shields.io/badge/Docker-000.svg?style=for-the-badge&logo=Docker&logoColor=blue) 
-![Git](https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=Git&logoColor=F05032) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=76ad64)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5) ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-## Sobre Mim
+## 📌 Sobre Mim  
+Desenvolvedor **.NET** com **4 anos de experiência**, tendo experiência em **microsserviços, fintech e e-commerce**. Experiência sólida em arquiteturas escaláveis utilizando **.NET Core, C#, Entity Framework** e **Kubernetes**, com foco em otimização de performance e migração de monólitos para microsserviços.  
 
-Sou um desenvolvedor Backend com 2 anos de experiência, especializado em .NET, ASP.NET Core, e Kubernetes. Utilizo Docker e Kubernetes para orquestração de contêineres e sigo as melhores práticas de POO e princípios SOLID para criar códigos compreensíveis, flexíveis e mantíveis. Tenho experiência prática com .NET Core e Entity Framework, e sou proficiente em SOLID, Clean-Code e Git Actions para CI/CD. Também tenho conhecimento intermediário em bancos de dados SQL e NoSQL.
+Principais competências:  
+- **Backend**: .NET Core, ASP.NET MVC, Entity Framework, Kafka, Amazon SQS.  
+- **Infraestrutura**: Docker, Kubernetes, Terraform (GCP), Datadog.  
+- **Frontend**: React, Next.js, TypeScript.  
+- **Práticas**: SOLID, Clean Code, BDD, CI/CD com GitHub Actions.  
+- **Bancos de Dados**: PostgreSQL, Microsoft SQL Server, MySQL.  
 
-## Experiência
+---
 
-### Loja Integrada
-**.NET Developer**  
-março de 2022 - Presente (2 anos 6 meses)
+## 🚀 Experiência Profissional  
 
-- **Metas:**
-  - Aprimorar a experiência do cliente, otimizando o processo de assinatura de planos e introduzindo transações sincronizadas com cartão de crédito.
-  - Aumentar a eficiência dos processos internos, priorizando a automação e adotando microsserviços para escalabilidade.
-  - Lançar um sistema eficiente de cupons para impulsionar a conversão de usuários.
-  - Implementar validação zero dólar para fortalecer a segurança nas transações.
-  - Resolver bugs legados, assegurando a estabilidade e eficiência do sistema.
+### **Luby**  
+**.NET Developer** (Fevereiro 2024 - Presente | 1 ano 2 meses)  
+_Consultoria alocada na fintech Gigpay em rápido crescimento._  
 
-- **Desafios:**
-  - Identificar e desenvolver soluções de software para automação e escalabilidade.
-  - Utilizar ferramentas como Mixpanel para análise de dados comportamentais.
-  - Automatizar processos internos com foco em soluções escaláveis baseadas em microsserviços.
-  - Abordar e solucionar bugs legados, garantindo um sistema robusto.
+**Contribuições:**  
+- Desenvolvimento de microsserviços em **.NET Core** para migração de funcionalidades críticas de monólito.  
+- Automação de infraestrutura com **Terraform** na GCP, garantindo escalabilidade e segurança.  
+- Otimização de performance em ambientes híbridos (microsserviços + monólito).  
+- Orchestração de microsserviços com **Kubernetes** e monitoramento com **Datadog**.  
+- Implementação de mensageria com **Firebase** para notificações em tempo real.  
 
-- **Resultados:**
-  - Implementação de microsserviços resultou em um aumento de 8% nas assinaturas e uma redução de 17% no contact rate.
+**Resultados:**  
+- Migração bem-sucedida de monólitos para microsserviços, aumentando a escalabilidade.  
+- Infraestrutura resiliente que suportou o crescimento acelerado da fintech.  
 
-- **Tecnologias Utilizadas:**
-  - Python, Typescript, Next.js, React, .Net, C#, Airflow, Flask, SQL Alchemy, PostgreSQL, Django, MySQL, Docker, Kubernetes, Kibana, Grafana, AWS
+---
 
-## Formação Acadêmica
+### **Loja Integrada**  
+**.NET Developer** (Março 2022 - Fevereiro 2024 | 2 anos)  
 
+**Contribuições:**  
+- Aprimorei a experiência do cliente com transações sincronizadas em cartão de crédito e sistema de cupons (**+8% em assinaturas**).  
+- Migração para arquitetura de microsserviços com **Kubernetes**, reduzindo o contact rate em **17%**.  
+- Implementação de validação "zero dólar" para segurança em transações.  
+- Análise de dados comportamentais com **Mixpanel** e integração de microsserviços para tracking distribuído.  
+
+**Tecnologias:** .NET, C#, Kubernetes, AWS, MySQL, React.  
+
+---
+
+### **Freelance (Autônomo)**  
+**Full-stack Developer** (Julho 2021 - Março 2022 | 9 meses)  
+
+**Projetos:**  
+- Automação de processos industriais com **Node.js** e análise de dados com **Python/Power BI**.  
+- Redução de erros manuais e otimização de workflows em ambientes de manufatura.  
+
+---
+
+## 🎓 Formação Acadêmica  
 - **Faculdade Descomplica**  
-  Bacharelado, Engenharia de Computação  
-  Janeiro de 2021 - Dezembro de 2025
+  Bacharelado em Engenharia de Computação *(Jan 2021 - Dez 2025)*  
 
-- **Universidade Federal do Amazonas**  
-  Bacharelado, Engenharia de Produção  
-  Fevereiro de 2019 - Dezembro de 2025
+- **Universidade Federal do Amazonas (UFAM)**  
+  Bacharelado em Engenharia de Produção *(Fev 2019 - Dez 2025)*  
 
-- **Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM)**  
-  Curso Técnico Integrado, Mecatrônica, Robótica e Engenharia de Controle e Automação  
-  Fevereiro de 2015 - Dezembro de 2018
+- **IFAM**  
+  Curso Técnico em Mecatrônica e Automação *(Fev 2015 - Dez 2018)*  
 
-## Conecte-se Comigo
+---
 
-[![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/ArianVCarvalho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ariancarvalho/)
+## 🌐 Conecte-se Comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ariancarvalho/) 
+[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ArianVCarvalho)  
 
-## Github Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianVCarvalho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArianVCarvalho&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianVCarvalho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArianVCarvalho&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)  
