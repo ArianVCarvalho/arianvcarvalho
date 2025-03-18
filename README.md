@@ -1,6 +1,6 @@
 # Arian Carvalho
 
-**Desenvolvedor Backend .NET | C# | AWS | Especialista em Microsserviços**  
+**Desenvolvedor Backend .NET | C# | AWS | PostgreSql**  
 📍 Manaus, Amazonas, Brasil  
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085) ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5) ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
