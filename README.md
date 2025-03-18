@@ -1,7 +1,3 @@
-Aqui está o **README atualizado** com base nas informações do seu perfil do LinkedIn:
-
----
-
 # Arian Carvalho
 
 **Desenvolvedor Backend .NET | C# | AWS | Especialista em Microsserviços**  
